@@ -1,7 +1,4 @@
 # Machine_Learning
-Sure, here's a comprehensive GitHub description for your project:
-
----
 
 # Property Price Prediction
 
